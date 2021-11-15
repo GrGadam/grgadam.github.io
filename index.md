@@ -10,9 +10,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 <dependency>
-    <groupId>io.github.Slimefun</groupId>
-    <artifactId>Slimefun4</artifactId>
-    <version>RC-28</version>
+    <groupId>io.github.grgadam</groupId>
+    <artifactId>PersistentDataLib</artifactId>
+    <version>0.0.1</version>
     <scope>provided</scope>
 </dependency>
 ```
