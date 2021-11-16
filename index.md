@@ -17,5 +17,5 @@ Dependency - Maven:
     <scope>provided</scope>
 </dependency>
 ```
-- Github repository: https://github.com/GrGadam/PersistentDataLib.git
-- Lastest release: https://github.com/GrGadam/PersistentDataLib/releases
+- Github repository: (here)[https://github.com/GrGadam/PersistentDataLib.git]
+- Lastest release: (here)[https://github.com/GrGadam/PersistentDataLib/releases]
