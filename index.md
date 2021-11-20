@@ -13,8 +13,7 @@ Dependency - Maven:
 <dependency>
     <groupId>io.github.grgadam</groupId>
     <artifactId>PersistentDataLib</artifactId>
-    <version>pre-1</version>
-    <scope>provided</scope>
+    <version>0.0.1</version>
 </dependency>
 ```
 Github repository: https://github.com/GrGadam/PersistentDataLib.git <br/>
